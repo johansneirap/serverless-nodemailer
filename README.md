@@ -16,4 +16,4 @@
 * Dummy pass
 * Host SMTP 
 * Port 
-Have in mind if you are using some provider like Gmail, you must able access to app less secure on your account management, otherwise Gmail will be blocking all your traffic
+Have in mind if you are using some provider like Gmail, you must able access to app less secure on your account management, otherwise Gmail will be blocking all your emails.
